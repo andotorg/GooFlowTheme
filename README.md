@@ -1,9 +1,15 @@
 # GooFlowTheme
-gooflow 的自定义主题 蚁点制作主题，gooflow 版权归第三方所有， 这个是比较老旧的版本了
+gooflow 的自定义主题 ,gooflow 版权归第三方所有， 这个是比较老旧的版本了
 
-###
+样式版权归 andot.org 蚁点工作室所有
 
-### 预览
+由于看到老旧的样式不好看，现在进行了样式的改造
+
+### 修改前
+
+![美化前](https://github.com/andotorg/GooFlowTheme/blob/master/%E7%BE%8E%E5%8C%96%E5%89%8D.jpg)
+
+### 修改后
 ![点击前样式](https://github.com/andotorg/GooFlowTheme/blob/master/%E7%82%B9%E5%87%BB%E5%89%8D%E6%A0%B7%E5%BC%8F.jpg)
 
 ![点击后样式](https://github.com/andotorg/GooFlowTheme/blob/master/%E7%82%B9%E5%87%BB%E5%90%8E%E7%9A%84%E6%A0%B7%E5%BC%8F.jpg)
