@@ -12,10 +12,10 @@ gooflow 的自定义主题 ,gooflow 版权归第三方所有， 这个是比较�
 ### 修改后
 ![点击前样式](https://github.com/andotorg/GooFlowTheme/blob/master/%E7%82%B9%E5%87%BB%E5%89%8D%E6%A0%B7%E5%BC%8F.jpg)
 
-![点击后样式](https://github.com/andotorg/GooFlowTheme/blob/master/1.jpg)
+![点击后样式](https://github.com/andotorg/GooFlowTheme/blob/master/1.png)
 
 ![鼠标经过左侧菜单样式](https://github.com/andotorg/GooFlowTheme/blob/master/%E9%BC%A0%E6%A0%87%E7%BB%8F%E8%BF%87%E8%8F%9C%E5%8D%95.jpg)
 
-![右键菜单样式](https://github.com/andotorg/GooFlowTheme/blob/master/2.jpg)
+![右键菜单样式](https://github.com/andotorg/GooFlowTheme/blob/master/2.png)
 
 ![双击编辑的样式](https://github.com/andotorg/GooFlowTheme/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20181030190251.png)
