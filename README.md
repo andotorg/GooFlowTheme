@@ -19,3 +19,6 @@ gooflow 的自定义主题 ,gooflow 版权归第三方所有， 这个是比较�
 ![右键菜单样式](https://github.com/andotorg/GooFlowTheme/blob/master/2.png)
 
 ![双击编辑的样式](https://github.com/andotorg/GooFlowTheme/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20181030190251.png)
+
+#### 新增添加的每个节点上的tip小提示
+![新增添加的每个节点上的tip小提示](https://github.com/andotorg/GooFlowTheme/blob/master/tip.jpg)
